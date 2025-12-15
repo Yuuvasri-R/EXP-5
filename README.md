@@ -16,9 +16,7 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-12-15 at 18 48 14 (1)](https://github.com/user-attachments/assets/43814f91-dbe6-47be-8dcc-22cc0547b3ed)
-
-![WhatsApp Image 2025-12-15 at 18 48 14](https://github.com/user-attachments/assets/ae353b61-396a-4d79-ad6d-b3045661ded8)
+<img width="966" height="742" alt="Screenshot 2025-12-13 215911" src="https://github.com/user-attachments/assets/9e1870ba-3453-4d2b-83c6-a863ab104218" />
 
 THEORY:
 	
