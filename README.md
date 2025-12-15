@@ -32,6 +32,12 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+LINE REGULATION:
+![WhatsApp Image 2025-12-15 at 18 48 14](https://github.com/user-attachments/assets/667c933a-a139-4ede-ae0a-fc7933f3d0da)
+
+LOAD REGULATION:
+
+![WhatsApp Image 2025-12-15 at 18 48 14 (1)](https://github.com/user-attachments/assets/366e92f2-f720-403d-a749-0cff443d0066)
 
 
 PRECAUTIONS:
